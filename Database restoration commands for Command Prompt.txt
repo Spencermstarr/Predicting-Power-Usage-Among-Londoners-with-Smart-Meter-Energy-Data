@@ -1,0 +1,8 @@
+set path=C:\Program Files\MySQL\MySQL Server 8.0\bin
+mysql -u stavros -p
+CS504#Err
+
+mysql -u stavros -p SMIL < SMIL.sql
+mysql -u stavros -p smil < smil.sql
+mysql -u stavros -p smil < SMIL.sql
+CS504#Err
